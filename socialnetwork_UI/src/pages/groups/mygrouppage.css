@@ -1,0 +1,15 @@
+.GroupNameInput{
+    border: none;
+    width: 100%;
+    height: 30px;
+}
+.GroupNameInput:focus{
+    outline: none;
+}
+.ButtonContainer{
+    padding: 10px;
+    background-color: aqua;
+}
+.createButtonContainer{
+    padding: 10px;
+}

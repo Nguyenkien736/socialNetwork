@@ -1,0 +1,31 @@
+.commentbody{
+    border: none;
+    min-height: 20px;
+    background-color: inherit;
+}
+.commentbody:focus{
+    outline: none;
+}
+.Comment{
+    padding: 5px;
+    margin: 5px;
+    min-height: 30px;
+    background-color: rgb(217, 198, 235);
+    border-radius: 10px;
+    width: fit-content;
+    display: flex;
+    align-items: center;
+}
+.userName{
+    color: blue;
+    font-weight: bold;
+}
+.deleteButton{
+    background-color: inherit;
+    font-size: 11px;
+}
+.deleteButton:hover{
+    color: aqua;
+    cursor:pointer;
+
+}

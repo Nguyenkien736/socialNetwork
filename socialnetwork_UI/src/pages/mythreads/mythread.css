@@ -1,0 +1,8 @@
+.Threads{
+    display: flex;
+   width: 590px;
+   overflow: scroll;
+   
+    flex-direction: column;
+    background-color: rgb(191, 160, 221);
+}

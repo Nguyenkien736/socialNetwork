@@ -1,0 +1,4 @@
+.threads{
+    overflow: scroll;
+    max-height: 100vh;
+}

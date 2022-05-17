@@ -1,0 +1,7 @@
+.body{
+    display: flex;
+    height: calc(100vh - 50px);
+}
+body,html{
+    height: 100%;
+}

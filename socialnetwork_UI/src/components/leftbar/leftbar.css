@@ -1,0 +1,40 @@
+.leftbar{
+    width: 280px;
+    background-color: rgb(179, 179, 221);
+    height: calc(100vh-50px);
+    position:sticky;
+}
+li{
+    
+}
+.linkConatainer{
+    display: block;
+    align-items: center;
+    width: inherit;
+}
+.leftBarLink{
+    background-color: brown;
+    text-align: left;
+    align-items: center;
+    justify-items: center;
+    font-size: 20px;
+    vertical-align: middle;
+    border-radius: 10px;
+    padding: 2px;
+    margin: 5px;
+    display: flex;
+    height: 44px;
+
+
+
+}
+.leftBarLink:hover{
+    background-color: rgb(201, 65, 65);
+
+}
+.linkReact{
+    top: 50%;
+    text-decoration: none;
+    margin: 0;
+
+}

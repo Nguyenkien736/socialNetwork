@@ -1,0 +1,42 @@
+.GroupTab{
+    background-color: aqua;
+    margin: 10px;
+    width: 480px;
+    height: 60px;
+    padding: 5px;
+    border-radius: 5px;
+    
+    
+   
+    align-items: center;
+}
+.manageButton{
+    text-decoration: none;
+}
+.indicator{
+    font-size: small;
+}
+.groupIcon{
+    margin-right: 10px;
+}
+.namespace{
+    display: flex;
+    align-items: center;
+}
+.roles{
+    float: right;
+    margin-left: 5px;
+}
+.RequestButton{
+    float: right;
+}
+.manageSettings{
+    float: right;
+   
+    
+}
+.groupName{
+    text-decoration: none;
+    font-size: medium;
+    font-weight: bold;
+}
